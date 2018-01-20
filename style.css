@@ -1,0 +1,20 @@
+.main {
+  width: 260px;
+}
+
+.square {
+  height: 20px;
+  width: 20px;
+  margin: 2px;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.square:hover {
+  background-color: #999;
+}
+
+.visited {
+  background-color: black;
+  color: white;
+}
